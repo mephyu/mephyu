@@ -4,4 +4,4 @@
 - PS: I have Design in nick because "mefju" was taken.
 ## 🔷 Catch some data
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MefjuDesign&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MefjuDesign&count_private=true&langs_count=7" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MefjuDesign&count_private=true&langs_count=8" />
