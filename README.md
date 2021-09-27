@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Mefju, Graphic Designer, python html and css developer
+# 👋 Hi, I’m @Mefju, Graphic Designer, python, html and css junior developer
 - 👀I am learnign C# and js.
 - 📫 You can find me on my - [Discord](https://discord.com/users/852865919558483968) - [Discord Server](https://dsc.gg/msb) - [Behance](https://be.net/mefjudesign)
 ## 🔷 Catch some data
