@@ -1,6 +1,6 @@
-# Mateusz Ramola
+# Matthew Ramola
 
-**CTO @ [Vean](https://vean.co) · CTO & Co-founder @ LetsGrub**
+**CTO & Co-founder @ [Vean](https://vean.co) · CTO @ [LetsGrub](https://letsgrub.app)**
 
 I've been writing code since 11, running projects-pretending-to-be-businesses around 13-14, and running actual serious ones since 16. I currently run engineering at two of them. Vean is a Phoenix-based agency we built into something that ships serious work for serious clients. LetsGrub is the consumer side: a social food app, currently raising seed.
 
