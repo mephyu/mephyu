@@ -2,7 +2,7 @@
 
 **CTO & Co-founder @ [Vean](https://vean.co) · CTO @ [LetsGrub](https://letsgrub.app)**
 
-I've been writing code since 11, running projects-pretending-to-be-businesses around 13-14, and running actual serious ones since 16. I currently run engineering at two of them. Vean is a Phoenix-based agency we built into something that ships serious work for serious clients. LetsGrub is the consumer side: a social food app, currently raising seed.
+I've been writing code since 11, running projects-pretending-to-be-businesses around 13-14, and running actual serious ones since 16. I currently run engineering at two of them. Vean is a Phoenix-based agency we built into something that ships serious work for serious clients. LetsGrub, which I joined in 2025 on the consumer side: a social food app, currently raising seed.
 
 I write TypeScript end-to-end. I care about perfection more than I probably should. I treat the codebase like the product, because it is. Happiest when the system is clean, the UI is opinionated, and the deploy is boring.
 
