@@ -2,7 +2,7 @@
 
 **CTO & Co-founder @ [Vean](https://vean.co) · CTO @ [LetsGrub](https://letsgrub.app)**
 
-I've been writing code since 11, running projects-pretending-to-be-businesses around 13-14, and running actual serious ones since 16. I currently run engineering at two of them. Vean is a Phoenix-based agency we built into something that ships serious work for serious clients. LetsGrub, which I joined in 2025 on the consumer side: a social food app, currently raising seed.
+I've been writing code since 11, running projects-pretending-to-be-businesses around 13-14, and running actual serious ones since 16. I currently run engineering at two of them. Vean is a Phoenix-based agency we built into something that ships full-stack web and mobile work, brand systems, and internal tooling for clients across the globe. LetsGrub, which I joined in 2025 on the consumer side: a social food app, currently raising seed.
 
 I write TypeScript end-to-end. I care about perfection more than I probably should. I treat the codebase like the product, because it is. Happiest when the system is clean, the UI is opinionated, and the deploy is boring.
 
@@ -120,7 +120,7 @@ I write TypeScript end-to-end. I care about perfection more than I probably shou
 
 ### [Vean](https://vean.co) — Digital agency, Phoenix AZ
 
-We do whatever serious work serious clients pay us to do. Websites, apps, internal tooling, brand systems, the whole stack. I run engineering and architected **Vean Portal**, our internal OS that's been in production with real clients for a while now. It's a beast: project management, custom e-signing with cryptographic audit trails, Stripe-integrated invoicing, a CRM with embedded CloudTalk dialer and AI call transcripts, scheduling with Google Calendar, an OAuth 2.1 provider doubling as identity infrastructure, and a lot more I won't bore you with here.
+Websites, apps, internal tooling, brand systems, the whole stack. If it's on the web or a phone, we probably build it. I run engineering and architected **Vean Portal**, our internal OS that's been in production with real clients for a while now. It's a beast: project management, custom e-signing with cryptographic audit trails, Stripe-integrated invoicing, a CRM with embedded CloudTalk dialer and AI call transcripts, scheduling with Google Calendar, an OAuth 2.1 provider doubling as identity infrastructure, and a lot more I won't bore you with here.
 
 ### [LetsGrub](https://letsgrub.app) — Consumer, Fort Worth TX
 
